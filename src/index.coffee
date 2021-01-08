@@ -1,13 +1,12 @@
 styles = """
 /*
- * A trick show
+ * A love trick 
  * Represented by Mr.D.
  * Please waiting for initialization...
  */
 
 body {
   background-color: #1a1c24; color: #fff;
-  font:Source Code Pro;
   font-size: 1.0rem; line-height: 1.4;
   -webkit-font-smoothing: subpixel-antialiased;
 }
@@ -153,7 +152,7 @@ pre em:not(.comment) { font-style: normal; }
 
 /*
  * 接下来做什么呢~
- * 我们让这颗心跳起来吧！
+ * 让它跳动起来或许是个好主意
  */
 
 @-webkit-keyframes heartbeat {
@@ -197,7 +196,7 @@ pre em:not(.comment) { font-style: normal; }
 }
 
 /*
- * 好哒！接下来准备让它跳起来吧ww
+ * 好der！接下来准备让它跳起来吧w
  */
 
 #heart, #echo {
@@ -225,7 +224,7 @@ pre em:not(.comment) { font-style: normal; }
 }
 
 /*
- * 准备好了嘛~！
+ * 好像可以了诶
  */
 
 #heart, #echo {
@@ -235,9 +234,7 @@ pre em:not(.comment) { font-style: normal; }
  *
  * ...2...
  *
- * ...1...
- *
- * 再等一下~略略略~
+ * 等等还有一步！
  *
  */
 
